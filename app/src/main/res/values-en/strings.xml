@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoSprink</string>
+    <string name="copyright">© Anton Lobanov, 2021</string>
+    <string name="notcopy">Designed for presentation only. Copying prohibited</string>
+    <string name="strhum">Soil moisture</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutoSprink</string>
+    <string name="notcopy">Предназначается только для презентаций. Копирование запрещено</string>
+    <string name="copyright">© Антон Лобанов, 2021 г.</string>
+    <string name="strhum">Влажность почвы</string>
+    <string name="s1111" translatable="false">1111</string>
+</resources>
